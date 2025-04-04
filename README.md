@@ -31,9 +31,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/hala-madi-a3964b239/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hala-madi" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/hala_alzaalan8" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hala_alzaalan8" height="30" width="40" />
-  </a>
   <a href="https://leetcode.com/u/hala_madi/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hala-madi" height="30" width="40" />
   </a>
