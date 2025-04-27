@@ -69,7 +69,7 @@
 </p>
 </details>
 
-<details open>
+<details >
 <summary style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 10px;">
   <span style="color: #c846a5;">🎨 UI Libraries & Styling</span>
 </summary>
@@ -85,7 +85,7 @@
 </p>
 </details>
 
-<details open>
+<details >
 <summary style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 10px;">
   <span style="color: #c846a5;">🔧 Backend & Database</span>
 </summary>
@@ -101,7 +101,7 @@
 </p>
 </details>
 
-<details open>
+<details >
 <summary style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 10px;">
   <span style="color: #c846a5;">🔌 Tools & Utilities</span>
 </summary>
@@ -117,7 +117,7 @@
 </p>
 </details>
 
-<details open>
+<details >
 <summary style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 10px;">
   <span style="color: #c846a5;">☁️ Deployment & DevOps</span>
 </summary>
@@ -141,10 +141,6 @@
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=halamadi&show_icons=true&theme=radical" alt="Hala's GitHub stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=halamadi&theme=radical" alt="Hala's GitHub streak" />
-  </div>
-
-  <div align="center" style="margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halamadi&layout=compact&theme=radical" alt="Hala's top languages" />
   </div>
 </div>
 
