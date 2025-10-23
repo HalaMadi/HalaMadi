@@ -69,7 +69,7 @@
 </p>
 </details>
 
-<details >
+<details open>
 <summary style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 10px;">
   <span style="color: #c846a5;">🎨 UI Libraries & Styling</span>
 </summary>
@@ -85,7 +85,7 @@
 </p>
 </details>
 
-<details >
+<details open>
 <summary style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 10px;">
   <span style="color: #c846a5;">🔧 Backend & Database</span>
 </summary>
@@ -101,7 +101,7 @@
 </p>
 </details>
 
-<details >
+<details open>
 <summary style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; cursor: pointer; font-weight: bold; margin-top: 10px;">
   <span style="color: #c846a5;">🔌 Tools & Utilities</span>
 </summary>
